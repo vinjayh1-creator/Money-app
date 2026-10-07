@@ -1,0 +1,12 @@
+{
+  "name": "Budget Planner",
+  "short_name": "Budget Planner",
+  "description": "Persoonlijke financiële planner voor inkomsten, uitgaven, rekeningen, investeringen en spaardoelen.",
+  "start_url": "./Budget_Planner_App_Style.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#2563eb",
+  "lang": "nl",
+  "orientation": "portrait-primary"
+}
